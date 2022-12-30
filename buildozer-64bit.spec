@@ -4,7 +4,7 @@
 title = Gid Oren
 
 # (str) Package name
-package.name = GidOren
+package.name = gidoren
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
